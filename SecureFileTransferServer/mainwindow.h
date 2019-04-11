@@ -53,10 +53,6 @@ private:
     void ConnectClient();
     void GetLocalAddress();
 
-    //Test
-    void SM3Test();
-    void SM4CBCTest();
-
     void HashCheck();
     QString GetFileHashValue(QFile *chosedFile);
     QString ByteArrayToHexString(QByteArray ba);
