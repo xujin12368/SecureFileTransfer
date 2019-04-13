@@ -7,7 +7,7 @@
 - 使用Qt实现可视化操作界面  
 
 ## 2. 依赖  
-- 需要安装GmSSL库  
+- 需要安装GmSSL库，请clone最新的master分支进行安装  
 - 安装方法可参考[GmSSL](http://gmssl.org/)
 - 也可访问[GmSSL-GitHub](https://github.com/guanzhi/GmSSL/)
 - 使用的Qt环境为v5.11.2 + MinGW-32bit  
